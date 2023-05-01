@@ -1,0 +1,16 @@
+org/example/javapractice/collections/HashCode.class
+org/example/javapractice/generic/WrapCode.class
+org/example/javapractice/generic/GenericReuse.class
+org/example/javapractice/generic/GenFun.class
+org/example/javapractice/serializer/A.class
+org/example/javapractice/generic/GenericCode.class
+org/example/javapractice/generic/GenCollect.class
+org/example/javapractice/JavaPracticeApplication.class
+org/example/javapractice/serializer/B.class
+org/example/javapractice/collections/compare/IdComparator.class
+org/example/javapractice/generic/Test.class
+org/example/javapractice/collections/compare/NameComparator.class
+org/example/javapractice/generic/GenericType.class
+org/example/javapractice/collections/compare/CompSort.class
+org/example/javapractice/collections/compare/Employee.class
+org/example/javapractice/collections/compare/Employee2.class
