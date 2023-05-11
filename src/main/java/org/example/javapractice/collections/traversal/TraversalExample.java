@@ -4,6 +4,7 @@ import java.sql.SQLOutput;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.ListIterator;
+import java.util.TreeSet;
 
 public class TraversalExample {
 
@@ -55,6 +56,12 @@ public class TraversalExample {
 
         //consumer is a func interface
 
+        System.out.println(" for each method in treeSet");
 
+        TreeSet<String> set = new TreeSet<>();
+        set.addAll(data);
+        data.forEach(e ->{
+                System.out.println(e);
+        });
 
     }}
